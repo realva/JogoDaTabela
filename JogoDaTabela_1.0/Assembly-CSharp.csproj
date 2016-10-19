@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EA92B68A-82C9-750F-7587-D6DC535E970A}</ProjectGuid>
+    <ProjectGuid>{094B280F-0F49-7806-DE0E-625B26807A4C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -49,6 +49,7 @@
      <Compile Include="Assets\JogoDaTabela\Scripts\MudarTextura.cs" />
      <Compile Include="Assets\JogoDaTabela\Scripts\MudarTexturaKeyCode.cs" />
      <Compile Include="Assets\JogoDaTabela\Scripts\Pause.cs" />
+     <Compile Include="Assets\JogoDaTabela\Scripts\RandomTable.cs" />
      <Compile Include="Assets\JogoDaTabela\Scripts\TextBoxManager.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\Pause.cs" />
@@ -164,7 +165,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{81BB6FD4-7109-02B9-BA21-B2D0496F5594}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{430FC7BA-A296-8CCE-9967-DC14A57422B1}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
