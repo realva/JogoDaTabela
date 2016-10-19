@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/JogoDaTabela/JogoDaTabela.unity
+  isLoaded: 1
+  isActive: 1
